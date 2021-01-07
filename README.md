@@ -2,7 +2,7 @@
 
 ## Announcement 📢
 
-> _[Azure Developer Stories](https://devstories.konfhub.com/) is a technical blogging contest cum learning program targeting developers. This contest is open for Indian nationals only. The goal of the initiative is to skill developers to learn new technologies on MS Learn and write technical blogs, articles or video content with demos & code samples sharing their experiences while building on Azure. The stories will help other developers across the globe to scale in building solutions on Azure.
+> [Azure Developer Stories](https://devstories.konfhub.com/) is a technical blogging contest cum learning program targeting developers. This contest is open for Indian nationals only. The goal of the initiative is to skill developers to learn new technologies on MS Learn and write technical blogs, articles or video content with demos & code samples sharing their experiences while building on Azure. The stories will help other developers across the globe to scale in building solutions on Azure.
 
 # Access these awesome learning resources that will help you get upskilled
 
