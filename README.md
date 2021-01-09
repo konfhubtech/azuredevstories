@@ -48,4 +48,4 @@
   
 **Visit official website for more details about [Azure Developer Stories](https://challenge.konfhub.com/) and submit your blog [here](https://forms.office.com/Pages/ResponsePage.aspx?id=DQSIkWdsW0yxEjajBLZtrQAAAAAAAAAAAAMAAAls_TZUQVUwQ1lJQzFMTFNUSTZCRURaRlRBWFFYVi4u)**
 
-  🏷️ **Check out [Azure Dev Challenge](https://devstories.konfhub.com/) contest**
+  🏷️  **Check out [Azure Dev Challenge](https://devstories.konfhub.com/) contest**
