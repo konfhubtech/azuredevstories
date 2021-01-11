@@ -46,6 +46,6 @@
   1. [.Net Learn Sessions](https://channel9.msdn.com/Shows/On-NET?WT.mc_id=dotnet-00000-arsaha)
   2. [Explore Blogs that will help you build your apps](https://devblogs.microsoft.com/dotnet/)
   
-**Visit official website for more details about [Azure Developer Stories](https://challenge.konfhub.com/) and submit your blog [here](https://forms.office.com/Pages/ResponsePage.aspx?id=DQSIkWdsW0yxEjajBLZtrQAAAAAAAAAAAAMAAAls_TZUQVUwQ1lJQzFMTFNUSTZCRURaRlRBWFFYVi4u)**
+**Visit official website for more details about [Azure Developer Stories](https://devstories.konfhub.com/) and submit your blog [here](https://forms.office.com/Pages/ResponsePage.aspx?id=DQSIkWdsW0yxEjajBLZtrQAAAAAAAAAAAAMAAAls_TZUQVUwQ1lJQzFMTFNUSTZCRURaRlRBWFFYVi4u)**
 
-  🏷️  **Check out [Azure Dev Challenge](https://devstories.konfhub.com/) contest**
+  🏷️  **Check out [Azure Dev Challenge](https://challenge.konfhub.com/) and [Azure Kubernetes Day Conference](https://akd.konfhub.com)**
