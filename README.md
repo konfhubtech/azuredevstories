@@ -5,7 +5,17 @@
 > [Azure Developer Stories](https://devstories.konfhub.com/) is a technical blogging contest cum learning program targeting developers. This contest is open for Indian nationals only. The goal of the initiative is to skill developers to learn new technologies on MS Learn and write technical blogs, articles or video content with demos & code samples sharing their experiences while building on Azure. The stories will help other developers across the globe to scale in building solutions on Azure.
 
 ## Blogs Submitted for Azure Developer Stories 2021 📚✍️
-  1. Aditya Oberoi on "[Fake a Phone Call from Wear OS Smartwatches using Xamarin, Azure Functions, and Twilio](https://dev.to/adityaoberai/fake-a-phone-call-from-wear-os-smartwatches-using-xamarin-azure-functions-and-twilio-2j56)"
+  1. Aditya Oberoi on [Fake a Phone Call from Wear OS Smartwatches using Xamarin, Azure Functions, and Twilio](https://dev.to/adityaoberai/fake-a-phone-call-from-wear-os-smartwatches-using-xamarin-azure-functions-and-twilio-2j56)
+  2. Ajay on [AWS and Azure communication : Using Azure Functions](https://ajaysamgir.hashnode.dev/aws-and-azure-communication-using-azure-functions)
+  3. Ajay on [Sending emails from your application with easy and secure way using Azure Sendgrid service](https://ajaysamgir.hashnode.dev/sending-emails-from-your-application-with-easy-and-secure-way-using-azure-sendgrid-service)
+  4. Alagappan Thiyagarajan [Building B2B Azure Logic Apps for Sending and Receiving the AS2 Messages](https://alagappan-t.medium.com/building-b2b-azure-logic-apps-for-sending-and-receiving-the-as2-messages-b65a071b6d92)
+  5. Amal Dev [Adding Serilog to Azure Functions created using .NET 5](https://www.techrepository.in/blog/posts/adding-serilog-to-azure-functions-created-using-net-5)
+  6. Aman Goyal [Language Translator Using Azure Cognitive services and Flask](https://amangoyaler1.medium.com/language-translator-using-azure-cognitive-services-and-flask-cc2377f59c83)
+  7. Ambarish Ganguly [Red Wine Quality prediction using AzureML, AKS](https://dev.to/ambarishg/azure-ml-aks-and-a-bit-of-mlops-2gj7)
+  8. Ambarish Ganguly [Bees Health detection using Azure Custom Vision Service](https://dev.to/ambarishg/bees-health-detection-using-azure-custom-vision-service-4k11)
+  9. Amit Prajapati [Azure Function for Dynamics 365 CRM: Part 3 (Website Contact Us Integration)](https://prajapatiamit.medium.com/azure-function-for-dynamics-365-crm-part-3-website-contact-us-integration-75c077703212)
+  10. Amit Tomar [How to build an AI web app from scratch to translate languages & deploy it to Azure App services](https://dev.to/amittomar/how-to-build-an-ai-web-app-from-scratch-to-translate-languages-deploy-it-to-azure-app-services-215g)
+  
 
 # Access these awesome learning resources that will help you get upskilled
 
