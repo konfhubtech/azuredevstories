@@ -4,6 +4,9 @@
 
 > [Azure Developer Stories](https://devstories.konfhub.com/) is a technical blogging contest cum learning program targeting developers. This contest is open for Indian nationals only. The goal of the initiative is to skill developers to learn new technologies on MS Learn and write technical blogs, articles or video content with demos & code samples sharing their experiences while building on Azure. The stories will help other developers across the globe to scale in building solutions on Azure.
 
+## Blogs Submitted for Azure Developer Stories 2021 📚✍️
+  1. Aditya Oberoi on "[Fake a Phone Call from Wear OS Smartwatches using Xamarin, Azure Functions, and Twilio](https://dev.to/adityaoberai/fake-a-phone-call-from-wear-os-smartwatches-using-xamarin-azure-functions-and-twilio-2j56)"
+
 # Access these awesome learning resources that will help you get upskilled
 
 ### Category: Python on Azure
