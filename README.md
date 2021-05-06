@@ -15,6 +15,16 @@
   8. Ambarish Ganguly [Bees Health detection using Azure Custom Vision Service](https://dev.to/ambarishg/bees-health-detection-using-azure-custom-vision-service-4k11)
   9. Amit Prajapati [Azure Function for Dynamics 365 CRM: Part 3 (Website Contact Us Integration)](https://prajapatiamit.medium.com/azure-function-for-dynamics-365-crm-part-3-website-contact-us-integration-75c077703212)
   10. Amit Tomar [How to build an AI web app from scratch to translate languages & deploy it to Azure App services](https://dev.to/amittomar/how-to-build-an-ai-web-app-from-scratch-to-translate-languages-deploy-it-to-azure-app-services-215g)
+  11. Amit Tyagi [Production-ready Blazor Application (Server)](https://github.com/AmitTyagi100/BlazorAppDemo)
+  12. Ankit Sharma [How To Solve Sudoku Using Azure Form Recognizer](https://ankitsharmablogs.com/how-to-solve-sudoku-using-azure-form-recognizer/)
+  13. Anshuman [Design serverless solutions with Azure Durable Functions](https://www.youtube.com/playlist?list=PLjry-34wJONGx45-z86V6coNzOlZ_Anv_)
+  14. Anuraj Parameswaran [How to create social media posts from long form content using Python](https://dotnetthoughts.net/how-to-create-socialmedia-posts-using-python/)
+  15. Anuraj Parameswaran [How to Build an Email Sentiment Analysis Bot - Using Azure Functions](https://dotnetthoughts.net/email-sentiment-analysis-bot-part2/)
+  16. Anuraj Parameswaran [Building a Social Media monitoring tool with NodeJs, Azure Cosmos DB and Azure Cognitive services](https://dotnetthoughts.net/building-a-socialmedia-monitoring-tool-with-nodejs/)
+  17. Arjav Dave [Azure Functions & wkhtmltopdf: Convert HTML to PDF](https://arjavdave.com/2021/03/22/azure-functions-wkhtmltopdf-html-to-pdf/)
+  18. Arjav Dave [How to Speed Up Your Website with Azure CDN](https://www.freecodecamp.org/news/how-to-speed-up-your-website-with-azure-cdn/)
+  19. Arnab Choudhuri [.Net microservice with gRPC containerised using Azure Container Registry and deployed on Azure Kubernetes Service](https://dev.to/c_arnab/net-microservice-with-grpc-containerised-using-azure-container-registry-and-deployed-on-azure-kubernetes-service-36go)
+  20. Ashirwad Satapathi [Build a Student Feedback Analyzer with Blazor, Azure Functions, Azure Static Web Apps and Azure Cognitive Services](https://dev.to/ashirwadsatapathi/build-a-student-feedback-analyzer-with-blazor-azure-functions-azure-static-web-apps-and-azure-cognitive-services-4acj)
   
 
 # Access these awesome learning resources that will help you get upskilled
